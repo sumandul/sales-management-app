@@ -1,0 +1,1 @@
+export default repairStatus = ["requested", "working", "completed"];
